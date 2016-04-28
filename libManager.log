@@ -1,0 +1,25 @@
+\o Program:		@(#)$CDS: libManager version 6.1.5 - CAT32 10/23/2012 17:37 (cat91amd) $
+\o Sub version:		sub-version  s011 
+\o Arguments:		-mpssession virtuoso12180 -mpshost t7400-2.EECS.Berkeley.EDU 
+\o Working Directory:	t7400-2.EECS.Berkeley.EDU:/home/aa/users/gomezhc/ee140/ee240a_project
+\o 64-bit offsets
+\o Qt version: 		4.5.3
+\o Log file is "/home/aa/users/gomezhc/ee140/ee240a_project/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(506 109 600 427))
+\o changeWorkingDir("/home/aa/users/gomezhc/ee140/ee240a_project") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\w Warning: LIB ee240a_project from File /home/aa/users/gomezhc/cds.lib Line 4 redefines
+\w LIB ee240a_project from the same file (defined earlier.)
+\a nrResizeWindow(cdsLibManager list(643 455 600 427))
+\a nrResizeWindow(cdsLibManager list(510 49 600 427))
+\a cdsLibManager->libListBox->value = "ee240a_project"
+\a nrListItemAction(cdsLibManager->libListBox "ee240a_project" 0)
+\a cdsLibManager->libListBox->value = "analogLib"
+\a cdsLibManager->libLineEdit->value = "analogLib"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\o libManager is exiting.
+\a exit(0)
