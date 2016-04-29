@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu Apr 28 17:47:55 2016 PDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/aa/users/bkilberg/ee240/ee240a_project/adc_tb/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Thu Apr 28 18:32:00 2016 PDT
+FilePathUsedToEditLock         /home/aa/users/bkilberg/ee240/ee240a_project/reg_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Apr 28 17:50:08 2016 PDT
