@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      gomezhc
+HostName                       t7400-2.EECS.Berkeley.EDU
+ProcessIdentifier              28388
+ProcessCreationTime_UTC        1462175671
+ProcessCreationTime_Readable   Mon May  2 00:54:31 2016 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/aa/users/gomezhc/ee140/ee240a_project/adc/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon May  2 01:01:41 2016 PDT
