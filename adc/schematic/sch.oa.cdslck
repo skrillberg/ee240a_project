@@ -4,18 +4,6 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-<<<<<<< HEAD
-LoginName                      gomezhc
-HostName                       t7400-2.EECS.Berkeley.EDU
-ProcessIdentifier              28388
-ProcessCreationTime_UTC        1462175671
-ProcessCreationTime_Readable   Mon May  2 00:54:31 2016 PDT
-AppIdentifier                  OA File System Design Manager
-OSType                         unix
-ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/aa/users/gomezhc/ee140/ee240a_project/adc/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon May  2 01:01:41 2016 PDT
-=======
 LoginName                      bkilberg
 HostName                       t7400-7.EECS.Berkeley.EDU
 ProcessIdentifier              20489
@@ -26,4 +14,3 @@ OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/aa/users/bkilberg/ee240/ee240a_project/adc/schematic/sch.oa.cdslck
 TimeEditLocked                 Mon May  2 00:59:38 2016 PDT
->>>>>>> eaf1efc1485903a8a65e2b2be2d10fd89ab8cf34
